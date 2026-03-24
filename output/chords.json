@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Rasa Ini",
+    "artist": "Vierratale",
+    "url": "https://www.chordtela.com/2015/02/vierra-rasa-ini.html",
+    "source": "chordtela",
+    "key": null,
+    "detected_key": "C major",
+    "key_confidence": 1.0,
+    "capo": null,
+    "tempo": null,
+    "difficulty": null,
+    "rating": null,
+    "genre": null,
+    "chord_content": "Intro : F Em Am Dm G C\n\n        F Em Am Dm...G\n\nF           Em\n\nku tak percaya\n\nDm      G   C\n\nkau ada disini\n\nF       Em\n\nmenemaniku\n\nDm      G     C\n\ndisaat dia pergi\n\nF            Em\n\nsungguh bahagia\n\nDm      G   C\n\nkau ada disini\n\nF            Em\n\nmenghapus semua\n\nDm         G    C\n\nsakit yang ku rasa\n\n*)\n\nDm               G\n\nmungkinkah kau merasakan\n\nEm             Am\n\nsemua yang ku pasrahkan\n\nDm           G\n\ntenanglah kasih\n\nReff:\n\n  C         G        \n\n  ku suka dirinya,\n\n  Am       G     C\n\n  mungkin aku sayang\n\n    F          Em\n\n  namun apakah mungkin\n\n  Am          G    C\n\n  kau menjadi milikku\n\n  C             G\n\n  kau pernah menjadi,\n\n     Am   G     C\n\n  menjadi miliknya\n\n    F             Em\n\n  namun salahkah aku\n\n    Am             G     F\n\n  bila ku pernah merasa ini\n\nMusik : F Em Am Dm G C\n\n        F Em Am Dm G C\n\n==Kembali ke : *), Reff\n\nMusik : F G Am G C Dm G\n\n==Kembali ke : Reff\n\nOutro : F Em Am Dm G C [2x]",
+    "chords_used": "F, Em, Am, Dm, G, C",
+    "harmonic_map": {
+      "F": {
+        "roman": "IV",
+        "function": "SD",
+        "diatonic": true
+      },
+      "Em": {
+        "roman": "iii",
+        "function": "T",
+        "diatonic": true
+      },
+      "Am": {
+        "roman": "vi",
+        "function": "T",
+        "diatonic": true
+      },
+      "Dm": {
+        "roman": "ii",
+        "function": "SD",
+        "diatonic": true
+      },
+      "G": {
+        "roman": "V",
+        "function": "D",
+        "diatonic": true
+      },
+      "C": {
+        "roman": "I",
+        "function": "T",
+        "diatonic": true
+      }
+    }
+  }
+]
