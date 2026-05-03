@@ -355,11 +355,11 @@ class ChordtelaScraper(BaseChordScraper):
                 tag.decompose()
             chord_content = self._parse_telabox(telabox)
 
-            chord_content = re.sub(
-                r"(?mi)^[\[\(=\-\s]*ORIGINAL\s+(?:CHORD\s+)?DARI\s+[^\n]*$",
-                "",
-                chord_content,
-            ).strip()
+            # chord_content = re.sub(
+            #     r"(?mi)^[\[\(=\-\s]*ORIGINAL\s+(?:CHORD\s+)?DARI\s+[^\n]*$",
+            #     "",
+            #     chord_content,
+            # ).strip()
 
             # Chordtela sering menambahkan bagian "ORIGINAL CHORD" (versi
             # tanpa capo) di bawah versi capo.  Marker bervariasi:
@@ -371,7 +371,7 @@ class ChordtelaScraper(BaseChordScraper):
             # karena itu nada aslinya — lebih akurat untuk analisis harmoni.
             # Jika tidak ada atau terlalu pendek, pakai versi capo saja.
             _ORIG_MARKER = re.compile(
-                r"^[|=\[\]\-\+\s]*ORIGINAL\s*CHORD[|=\[\]\)\s]*$",
+                r"^[|=\[\]\-\+\s]*(?:ORIGINAL\s*CHORD|CHORD\s*DARI)(?:[\s\-]*[a-zA-Z#]+)?[|=\[\]\)\s]*$",
                 re.IGNORECASE | re.MULTILINE,
             )
             parts = _ORIG_MARKER.split(chord_content, maxsplit=1)

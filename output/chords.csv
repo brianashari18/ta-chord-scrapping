@@ -1,66 +1,95 @@
 title,artist,url,source,key,detected_key,key_confidence,capo,tempo,difficulty,rating,genre,chord_content,chords_used,harmonic_map
-Kesepian,Vierratale,https://www.chordtela.com/2016/08/vierra-kesepian.html,chordtela,,C major,0.72,,,,,,"Intro : C Em F Fm..
+ST12,ST 12,https://www.chordtela.com/2017/05/st12-puspa-putuskan-saja-pacarmu.html,chordtela,,G major,0.82,,,,,,"C            Em
+Kau.. gadisku yang cantik
+F              C
+coba lihat aku disini
+Dm           G
+di sini ada aku
+               C
+yang cinta padamu..
 
-C            G
+Int. G-Am-Bm-C
 
-di mana kamu di mana
+ C            Em
+Kau.. gadisku yang manis
+F              C
+coba dekat aku disini
+Dm           G
+di sini ada aku
+                C
+yang sayang padamu..oo ho..
 
-F          G
+(*)
+F             G
+Walau ku tahu bahwa dirimu
+E              Am
+sudah ada yang punya
+D
+namun kan ku tunggu
+             G -F -Em -Dm-Dm
+sampai kau mau..       wo wow..
 
-di sini bukan..
+Reff I:
+  C                         F
+  Jangan-jangan kau menolak cintaku
+  G                         C
+  jangan-jangan kau ragukan hatiku
+  Am                  Dm
+  ku kan selalu setia menunggu
+  F               G-G   G-G
+  untuk jadi pacarmu.. wo wow..
 
-C            G
+  C                           F
+  Jangan-jangan kau tak kenal cintaku
+  G                          C       C-G/B
+  jangan-jangan kau hiraukan pacarmu
+  Am               Dm
+  putuskanlah saja pacarmu
+  F                   G      (C)
+  lalu bilang I love you..padaku..
 
-kemana kamu kemana
+Musik : C..F..G..C..
+        Am..Dm..F..G...
+        C...
+           ooo hohoo..
+(*)
+F             G
+Walau ku tahu bahwa dirimu
+E              Am
+sudah ada yang punya
+D
+namun kan ku tunggu
+             G -F -Em -Dm-Dm
+sampai kau mau..       wo wow..
 
-F          G
+Reff II:
+  C                         F
+  Jangan-jangan kau menolak cintaku
+  G                         C
+  jangan-jangan kau ragukan hatiku
+  Am                  Dm
+  ku kan selalu setia menunggu
+  F                G-G  G-G
+  untuk jadi pacarmu.. wo wow..
 
-ke sini bukan..
+  C                           F
+  Jangan-jangan kau tak kenal cintaku
+  G                          C       C-G/B
+  jangan-jangan kau hiraukan pacarmu
+  Am               Dm
+  putuskanlah saja pacarmu
+  F                   G-G     G-G
+  lalu bilang I love you..hu wo woo
 
-*)
+  C                           F
+  Jangan-jangan kau tak kenal cintaku
+  G                          C       C-G/B
+  jangan-jangan kau hiraukan pacarmu
+  Am               Dm
+  putuskanlah saja pacarmu
+  F                   G      (C)
+  lalu bilang I love you..padaku..
 
-C              G
-
-katanya pergi sebentar
-
-F          G
-
-ternyata lama..
-
-C             G
-
-tahukah aku sendiri
-
-F          G
-
-menunggu kamu..
-
-Reff:
-
-     C                Em
-
-  jangan pergi pergi lagi
-
-   Gm         A    Dm
-
-  aku tak mau sendiri
-
-  Fm      F      Em         Am
-
-  temani aku tuk sebentar saja
-
-   Dm                G
-
-  agar aku tak kesepian..
-
-==Kembali ke : *)
-
-Musik : Am C F..
-
-        Am C D..
-
-        Dm Em F G
-
-==Kembali ke : Reff [3x]
-
-Outro : C Em F Fm C","C, Em, F, Fm, G, Gm, A, Dm, Am, D","{'C': {'roman': 'I', 'function': 'T', 'diatonic': True}, 'Em': {'roman': 'iii', 'function': 'T', 'diatonic': True}, 'F': {'roman': 'IV', 'function': 'SD', 'diatonic': True}, 'Fm': {'roman': 'iv', 'function': 'SD', 'diatonic': False}, 'G': {'roman': 'V', 'function': 'D', 'diatonic': True}, 'Gm': {'roman': 'v', 'function': 'D', 'diatonic': False}, 'A': {'roman': 'VI', 'function': 'D', 'diatonic': False}, 'Dm': {'roman': 'ii', 'function': 'SD', 'diatonic': True}, 'Am': {'roman': 'vi', 'function': 'T', 'diatonic': True}, 'D': {'roman': 'II', 'function': 'D', 'diatonic': False}}"
+Outro: C..F..G..C..
+       houwoo..syananana ha hoo..
+       Am..Dm..F..G...G-C-Dm-C","C, Em, F, Dm, G, Am, Bm, E, D, G/B","{'C': {'roman': 'IV', 'function': 'SD', 'diatonic': True}, 'Em': {'roman': 'vi', 'function': 'T', 'diatonic': True}, 'F': {'roman': 'bVII', 'function': 'SD', 'diatonic': False}, 'Dm': {'roman': 'v', 'function': 'D', 'diatonic': False}, 'G': {'roman': 'I', 'function': 'T', 'diatonic': True}, 'Am': {'roman': 'ii', 'function': 'SD', 'diatonic': True}, 'Bm': {'roman': 'iii', 'function': 'T', 'diatonic': True}, 'E': {'roman': 'VI', 'function': 'D', 'diatonic': False}, 'D': {'roman': 'V', 'function': 'D', 'diatonic': True}, 'G/B': {'roman': 'I', 'function': 'T', 'diatonic': True}}"

@@ -849,7 +849,7 @@ Musik : F Em Dm Dm-Em-F..G..
        C
 
 apa salahku..","C, G/B, Am, G, F, Em, Dm, C7, A","{'C': {'roman': 'I', 'function': 'T', 'diatonic': True}, 'G/B': {'roman': 'V', 'function': 'D', 'diatonic': True}, 'Am': {'roman': 'vi', 'function': 'T', 'diatonic': True}, 'G': {'roman': 'V', 'function': 'D', 'diatonic': True}, 'F': {'roman': 'IV', 'function': 'SD', 'diatonic': True}, 'Em': {'roman': 'iii', 'function': 'T', 'diatonic': True}, 'Dm': {'roman': 'ii', 'function': 'SD', 'diatonic': True}, 'C7': {'roman': 'I', 'function': 'T', 'diatonic': True}, 'A': {'roman': '[vi]', 'function': 'T', 'diatonic': False}}"
-D’Masiv,D'Masiv,https://www.chordtela.com/2016/06/dmasiv-cinta-sampai-disini.html,chordtela,,C major,1.0,,,,,,"Intro : Am….C….F….G
+Cinta Sampai Di Sini,D'Masiv,https://www.chordtela.com/2016/06/dmasiv-cinta-sampai-disini.html,chordtela,,C major,1.0,,,,,,"Intro : Am….C….F….G
 
         Am….C….F….G
 
@@ -936,76 +936,7 @@ Musik : Am C G F G
 ==Kembali ke : Reff
 
 Outro : Am C G F..","Am, C, F, G","{'Am': {'roman': 'vi', 'function': 'T', 'diatonic': True}, 'C': {'roman': 'I', 'function': 'T', 'diatonic': True}, 'F': {'roman': 'IV', 'function': 'SD', 'diatonic': True}, 'G': {'roman': 'V', 'function': 'D', 'diatonic': True}}"
-D’Masiv,D'Masiv,https://www.chordtela.com/2015/01/dmasiv-rindu-setengah-mati.html,chordtela,,C major,0.682,,,,,,"Intro : G….
-
-G
-aku.. ingin engkau
-      Em
-ada disini..
-                Am
-menemaniku saat sepi..
-                D
-menemaniku saat gundah..
-
-G
-berat.. hidup ini
-        Em
-tanpa dirimu..
-                   Am
-ku hanya mencintai kamu..
-                  D
-ku hanya memiliki kamu..
-
-Reff : 
-  G
- aku.. rindu..
-   E               Am
- setengah mati kepadamu..
-     Cm                 G
- sungguh ku ingin kau tahu
-  D     Em              Am D
- aku rindu.. setengah mati..
-
-G
-meski.. telah lama kita
-       Em
-tak bertemu..
-                     Am
-ku selalu memimpikan kamu..
-                     D
-ku tak bisa hidup tanpamu..
-
-Reff : 
-  G
- aku.. rindu..
-   E               Am
- setengah mati kepadamu..
-     Cm                 G
- sungguh ku ingin kau tahu
-  D     Em              Am D
- aku rindu.. setengah mati..
-
-       G             Am  C
-aku rindu.. setengah ma..ti..
-
-Reff End :
-  G
- aku.. rindu..
-   E               Am
- setengah mati kepadamu..
-    Cm                  G
- sungguh ku ingin kau tahu
-    D     Em              Am D
- ku tak bisa.. hidup tanpamu..
-
-       G   
-aku rindu..
-
-Outro : G
-
-[[[CHORD DARI C]]] 
-
-Intro : C….
+Rindu Setengah Mati,D'Masiv,https://www.chordtela.com/2015/01/dmasiv-rindu-setengah-mati.html,chordtela,,C major,0.8,,,,,,"Intro : C….
 
 C
 aku.. ingin engkau
@@ -1070,8 +1001,8 @@ Reff End :
        C   
 aku rindu..
 
-Outro : C","G, Em, Am, D, E, Cm, C, Dm, A, Fm, F","{'G': {'roman': 'V', 'function': 'D', 'diatonic': True}, 'Em': {'roman': 'iii', 'function': 'T', 'diatonic': True}, 'Am': {'roman': 'vi', 'function': 'T', 'diatonic': True}, 'D': {'roman': '[ii]', 'function': 'SD', 'diatonic': False}, 'E': {'roman': '[iii]', 'function': 'T', 'diatonic': False}, 'Cm': {'roman': 'i', 'function': 'T', 'diatonic': False}, 'C': {'roman': 'I', 'function': 'T', 'diatonic': True}, 'Dm': {'roman': 'ii', 'function': 'SD', 'diatonic': True}, 'A': {'roman': '[vi]', 'function': 'T', 'diatonic': False}, 'Fm': {'roman': 'iv', 'function': 'SD', 'diatonic': False}, 'F': {'roman': 'IV', 'function': 'SD', 'diatonic': True}}"
-D’Masiv,D'Masiv,https://www.chordtela.com/2015/02/dmasiv-semakin.html,chordtela,,C major,1.0,,,,,,"Intro : Am F C G
+Outro : C","C, Am, Dm, G, A, Fm, F","{'C': {'roman': 'I', 'function': 'T', 'diatonic': True}, 'Am': {'roman': 'vi', 'function': 'T', 'diatonic': True}, 'Dm': {'roman': 'ii', 'function': 'SD', 'diatonic': True}, 'G': {'roman': 'V', 'function': 'D', 'diatonic': True}, 'A': {'roman': 'VI', 'function': 'D', 'diatonic': False}, 'Fm': {'roman': 'iv', 'function': 'SD', 'diatonic': False}, 'F': {'roman': 'IV', 'function': 'SD', 'diatonic': True}}"
+Semakin,D'Masiv,https://www.chordtela.com/2015/02/dmasiv-semakin.html,chordtela,,C major,1.0,,,,,,"Intro : Am F C G
 
         Am F C G
 

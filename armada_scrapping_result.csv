@@ -414,167 +414,6 @@ Reff :
  dimabuk cinta..
             G.. Gmaj7
  dimabuk cinta..","G, Em, Am, D, Bm, C, F, D7, Gmaj7","{'G': {'roman': 'I', 'function': 'T', 'diatonic': True}, 'Em': {'roman': 'vi', 'function': 'T', 'diatonic': True}, 'Am': {'roman': 'ii', 'function': 'SD', 'diatonic': True}, 'D': {'roman': 'V', 'function': 'D', 'diatonic': True}, 'Bm': {'roman': 'iii', 'function': 'T', 'diatonic': True}, 'C': {'roman': 'IV', 'function': 'SD', 'diatonic': True}, 'F': {'roman': 'bVII', 'function': 'SD', 'diatonic': False}, 'D7': {'roman': 'V', 'function': 'D', 'diatonic': True}, 'Gmaj7': {'roman': 'I', 'function': 'T', 'diatonic': True}}"
-Apa Kabar Sayang,Armada,https://www.chordtela.com/2014/12/armada-apa-kabar-sayang.html,chordtela,,G major,0.8,,,,,,"Intro : C F C F ...
-
-C           F
-
-seharian aku tak tenang
-
-Dm           G
-
-seperti orang kebingungan
-
-C            F
-
-pikiranku tak karuan
-
-Dm            G
-
-khawatirkan kamu di sana
-
-          
-
-tak tahu apa gerangan
-
-Dm                Em
-
-mungkinkah di sana kau rasa bahagia
-
-F                 G
-
-atau malah sebaliknya
-
-Reff 1:
-
-               C             G
-
-  telah lama kita tidak bertemu
-
-                   Am                G
-
-  tak pernah ku dengar berita tentangmu
-
-              F     C
-
-  apa kabar kamu sayang
-
-              Dm    G
-
-  apa kabar kamu sayang
-
-Musik : C F C F
-
-C         F
-
-seharian aku tak tenang
-
-Dm            G
-
-khawatirkan kamu di sana
-
-C           F
-
-tak tahu apa gerangan
-
-Dm                Em
-
-mungkinkah di sana kau rasa bahagia
-
-F                 G
-
-atau malah sebaliknya
-
-Reff 2:
-
-              C             G
-
-  telah lama kita tidak bertemu
-
-                  Am              G
-
-  tak pernah ku dengar berita tentangmu
-
-             F    C
-
-  apa kabar kamu sayang
-
-             Dm   G
-
-  apa kabar kamu sayang
-
-            C            G
-
-  aku kan terus mendoakanmu
-
-                  Am                G
-
-  walau tak ku dengar berita tentangmu
-
-              F     C
-
-  apa kabar kamu sayang
-
-              Dm    G
-
-  apa kabar kamu sayang
-
-       C
-
-  di sana
-
-Musik : Am C Am C
-
-Dm                 Em
-
-mungkinkah di sana kau rasa bahagia
-
-F                  G   A
-
-atau malah sebaliknya oooo
-
-Reff 3:
-
-               D              A
-
-  telah lama kita tidak bertemu
-
-                   Bm                A
-
-  tak pernah ku dengar berita tentangmu
-
-              G     D
-
-  apa kabar kamu sayang
-
-              Em    A
-
-  apa kabar kamu sayang
-
-       D
-
-  di sana
-
-Int. D A Bm A
-
-            G     D
-
-apa kabar kamu sayang
-
-            Em    A
-
-apa kabar kamu sayang
-
-     Bm A
-
-di sana
-
-            G     A
-
-Apa kabar kamu sayang
-
-     D
-
-di sana ...","C, F, Dm, G, Em, Am, A, D, Bm","{'C': {'roman': 'IV', 'function': 'SD', 'diatonic': True}, 'F': {'roman': 'bVII', 'function': 'SD', 'diatonic': False}, 'Dm': {'roman': '[V]', 'function': 'D', 'diatonic': False}, 'G': {'roman': 'I', 'function': 'T', 'diatonic': True}, 'Em': {'roman': 'vi', 'function': 'T', 'diatonic': True}, 'Am': {'roman': 'ii', 'function': 'SD', 'diatonic': True}, 'A': {'roman': '[ii]', 'function': 'SD', 'diatonic': False}, 'D': {'roman': 'V', 'function': 'D', 'diatonic': True}, 'Bm': {'roman': 'iii', 'function': 'T', 'diatonic': True}}"
 Harusnya Aku,Armada,https://www.chordtela.com/2014/10/armada-harusnya-aku.html,chordtela,,E major,1.0,,,,,,"++++========
 
 Intro : E..A..F#m B E..
@@ -738,7 +577,7 @@ Reff :
   bukan dia..
 
 Outro : E..","E, A, F#m, B, G#m, C#m","{'E': {'roman': 'I', 'function': 'T', 'diatonic': True}, 'A': {'roman': 'IV', 'function': 'SD', 'diatonic': True}, 'F#m': {'roman': 'ii', 'function': 'SD', 'diatonic': True}, 'B': {'roman': 'V', 'function': 'D', 'diatonic': True}, 'G#m': {'roman': 'iii', 'function': 'T', 'diatonic': True}, 'C#m': {'roman': 'vi', 'function': 'T', 'diatonic': True}}"
-Armada,Hargai Aku,https://www.chordtela.com/2014/12/hargai-aku-armada.html,chordtela,,C major,0.912,,,,,,"Intro : C A Dm G C 
+Hargai Aku,Armada,https://www.chordtela.com/2014/12/hargai-aku-armada.html,chordtela,,C major,0.912,,,,,,"Intro : C A Dm G C 
  
 C       A  Dm       G       C A 
 seringkali kau merendahkan ku 
@@ -1116,3 +955,85 @@ Outro : C F G C….
 ==============
 Original chord dari ""B""
 Gunakan Transpose diatas gan.","C, F, Dm, G, Am, Em, A, B","{'C': {'roman': 'I', 'function': 'T', 'diatonic': True}, 'F': {'roman': 'IV', 'function': 'SD', 'diatonic': True}, 'Dm': {'roman': 'ii', 'function': 'SD', 'diatonic': True}, 'G': {'roman': 'V', 'function': 'D', 'diatonic': True}, 'Am': {'roman': 'vi', 'function': 'T', 'diatonic': True}, 'Em': {'roman': 'iii', 'function': 'T', 'diatonic': True}, 'A': {'roman': '[vi]', 'function': 'T', 'diatonic': False}, 'B': {'roman': 'vii°', 'function': 'D', 'diatonic': True}}"
+Cinta Itu Buta,Armada,https://www.chordtela.com/2019/09/armada-cinta-itu-buta.html,chordtela,,B major,0.85,,,,,,"[intro] B E C#m F#   A-C
+        B E C#m F#
+ 
+B
+Salahkah bila aku mencintaimu
+G#m
+Dan berharap engkau kan jadi milikku
+E                                            F#
+Walau banyak yang bilang kau tak pantas untukku
+ 
+B
+Sayang ku mohon jangan tolak cintaku
+G#m
+Jiwa ragaku ini hanya untukkmu
+E                                F#
+Aku rela berkorban demi cintamu itu
+ 
+E
+Biarlah orang berkata apa
+ 
+[chorus]
+B    E     C#m       F#
+oooh ooooo Manusia tiada yang sempurna
+B    E     C#m       F#
+oooh ooooo Ku terima kau apa adanya
+B    E     C#m          F#
+oooh ooooo Yang penting aku bahagia
+B    E     C#m     F#
+oooh ooooo oooh ooooo 
+ 
+B
+Sayang ku mohon jangan tolak cintaku
+G#m
+Jiwa ragaku ini hanya untukkmu
+E                                F#
+Aku rela berkorban demi cintamu itu
+ 
+E
+Biarlah orang berkata apa
+ 
+[chorus]
+B    E     C#m       F#
+oooh ooooo Manusia tiada yang sempurna
+B    E     C#m       F#
+oooh ooooo Ku terima kau apa adanya
+B    E     C#m          F#
+oooh ooooo Yang penting aku bahagia
+B    E     C#m     F#
+oooh ooooo oooh ooooo 
+ 
+[solo] G#m F# B
+       G#m F# E F#
+ 
+E
+Biarlah orang berkata apa
+ 
+B    E     C#m F#
+oooh ooooo 
+B    E     C#m F#
+oooh ooooo 
+ 
+[chorus]
+B    E     C#m       F#
+oooh ooooo Manusia tiada yang sempurna
+B    E     C#m       F#
+oooh ooooo Ku terima kau apa adanya
+B    E     C#m          F#
+oooh ooooo Yang penting aku bahagia
+B    E     C#m     F#
+oooh ooooo oooh ooooo 
+ 
+B    E     C#m       F#
+oooh ooooo Manusia tiada yang sempurna
+B    E     C#m       F#
+oooh ooooo Ku terima kau apa adanya
+B    E     C#m          F#
+oooh ooooo Yang penting aku bahagia
+B    E     C#m     F#
+oooh ooooo oooh ooooo 
+ 
+E           F#       B
+Sayang.. cinta itu buta","B, E, C#m, F#, G#m, A, C","{'B': {'roman': 'I', 'function': 'T', 'diatonic': True}, 'E': {'roman': 'IV', 'function': 'SD', 'diatonic': True}, 'C#m': {'roman': 'ii', 'function': 'SD', 'diatonic': True}, 'F#': {'roman': 'V', 'function': 'D', 'diatonic': True}, 'G#m': {'roman': 'vi', 'function': 'T', 'diatonic': True}, 'A': {'roman': 'bVII', 'function': 'SD', 'diatonic': False}, 'C': {'roman': 'bII', 'function': 'SD', 'diatonic': False}}"

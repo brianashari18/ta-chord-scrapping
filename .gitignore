@@ -1,0 +1,20 @@
+# Ignore all CSV files
+*.csv
+*.CSV
+
+# Ignore all Excel files
+*.xls
+*.xlsx
+
+# Ignore all JSON files
+*.json
+
+# Ignore all XML files
+*.xml
+
+# Ignore all log files
+*.log
+
+# Ignore all temporary files
+*.tmp
+*.temp
